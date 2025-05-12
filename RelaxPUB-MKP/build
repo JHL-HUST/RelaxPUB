@@ -1,0 +1,1 @@
+g++ -O3 DiseMKP.cpp -o RelaxPUB-MKP -std=c++11 -DGOP -mpopcnt
